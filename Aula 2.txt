@@ -1,0 +1,10 @@
+Lembrando a aula 1....
+
+git init -> pasta vira um repositório
+
+git add ->
+
+git config user.name "nome" / config user.email "email" -> add usário e add email
+
+git commit -am "mensagem" -> mensagem no programa, sendo a = atualizações / m = mensagem
+
